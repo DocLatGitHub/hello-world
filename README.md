@@ -1,2 +1,3 @@
 # hello-world
-Hello world Repository for learning
+
+Ich habe die erste Zeile gelöscht.
